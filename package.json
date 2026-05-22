@@ -1,7 +1,8 @@
 {
   "name": "amplifi-api",
   "version": "1.0.0",
-  "description": "Amplifi payments API",
+  "private": true,
+  "description": "Amplifi payments API — standalone Node.js server (not part of the Expo app)",
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
